@@ -16,7 +16,7 @@
 
 ### A little about myself 👀 
 <p align="justify"> I am what they call a multipotential person and it took me a while to find my professional purpose. But I found it. In early 2022 I started a career transition to technology. I studied programming logic and some languages (JS, CSS, HTML, Java), deciding to focus on Python.</p>
-<p align="justify">My Python journey started with /Código[S], a python bootcamp promoted by [Stone](https://www.stone.com.br/) and [How](https://howedu.com.br/). With over nine thousand entries, only 214 selected for the bootcamp that lasted twenty-three weeks, I finished in the top 16 for a final - a Hackathon. Unfortunately, I didn't win the hackathon, but it was an amazing experience (which I'd rather not repeat. Oh... those three wonderful/hellish days... without sleeping or eating right).</p>
+<p align="justify">My Python journey started with /Código[S], a python bootcamp promoted by <a href="https://www.stone.com.br/">Stone</a> and <a href="https://howedu.com.br/">How</a>. With over nine thousand entries, only 214 selected for the bootcamp that lasted twenty-three weeks, I finished in the top 16 for a final - a Hackathon. Unfortunately, I didn't win the hackathon, but it was an amazing experience (which I'd rather not repeat. Oh... those three wonderful/hellish days... without sleeping or eating right).</p>
 <p align="justify">This event helped me to realize that I made a decision that I will not regret, even though I still have a long way to go.</p>
 
 
